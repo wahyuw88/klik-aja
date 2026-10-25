@@ -1,0 +1,13 @@
+{
+  "name": "lamaran-wahyu-untuk-khalda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web app lamaran interaktif Wahyu untuk Khalda",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
